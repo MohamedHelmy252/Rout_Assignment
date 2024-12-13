@@ -1,0 +1,7 @@
+E:\vs c#\session 3\session 3\bin\Debug\session 3.exe.config
+E:\vs c#\session 3\session 3\bin\Debug\session 3.exe
+E:\vs c#\session 3\session 3\bin\Debug\session 3.pdb
+E:\vs c#\session 3\session 3\obj\Debug\session 3.csproj.AssemblyReference.cache
+E:\vs c#\session 3\session 3\obj\Debug\session 3.csproj.CoreCompileInputs.cache
+E:\vs c#\session 3\session 3\obj\Debug\session 3.exe
+E:\vs c#\session 3\session 3\obj\Debug\session 3.pdb
